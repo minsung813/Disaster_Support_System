@@ -1,0 +1,24 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 가상환경 폴더 (혹시 venv 쓸 때 대비)
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter 관련
+.ipynb_checkpoints/
+
+# 에디터/IDE 설정
+.vscode/
+.idea/
+
+# OS 관련 잡파일
+.DS_Store
+Thumbs.db
+
+# 로그, 임시파일
+*.log
